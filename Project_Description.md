@@ -1,7 +1,7 @@
 # Project: Predicting Boston Housing Prices
 
 A simple linear regression model, taken from GLearning's [video](https://youtu.be/zrzXN_gib3A). \
-This project kicks off my foray into applied data science. I'd been studying lots of material over the course of two weeks, and I finally feel ready to start executing in the field of ML and data science.
+This project kicks off my foray into applied machine learning and data science. I'd been studying lots of material over the course of two weeks, and I finally feel ready to start executing in the field.
 
 ## Project Overview
 
