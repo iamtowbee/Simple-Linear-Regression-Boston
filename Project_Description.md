@@ -7,7 +7,7 @@ This project kicks off my foray into applied machine learning and data science. 
 
 In this project, I applied basic machine learning concepts on data collected for housing prices in the Boston area to predict the selling price of a new home. I will first explore the data to address discrepancies, then I properly split the data into testing and training subsets (a 70%-30% split).
 
-I learned how to use Pandas `iloc()` method to select specific subsets of a Pandas `DataFrame`.Next, I chose a LinearRegression learning and prediction algorithm, fitting the training data into the model.
+I learned how to use Pandas `iloc()` method to select specific subsets of a Pandas `DataFrame`. Next, I chose a LinearRegression learning and prediction algorithm, fitting the training data into the model.
 
 Then, I ran a prediction on the test data and evaluated the model's performance using the mean-squared error. Although in this case, the mean error was not squared.
 
